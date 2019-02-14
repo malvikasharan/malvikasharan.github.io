@@ -44,8 +44,8 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/publication/", text: "Publications"}
  - {permalink: "/projects/", text: "Community Projects"}
- - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/contact/", text: "Contact"}
+ - {link: "https://malvikasharan.github.io/surrounded-by-giants", text: "Blog"}
+ - {link: "mailto:malvikasharan@gmail.com", text: "Contact"}
 
  #- {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
