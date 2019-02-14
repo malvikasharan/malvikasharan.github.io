@@ -56,8 +56,8 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Malvika <typeout> Sharan"
-eventDate: "testing"
+heroTitle: "Malvika Sharan"
+eventDate: "<typeout>"
 typeoutTextValues: '"", "Community Builder", "Computational Biologist", "Open Scientist", "Collaborator"'
 typeoutFallback: "Community Builder"
 heroButtons:
