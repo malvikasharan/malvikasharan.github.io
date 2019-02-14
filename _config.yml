@@ -42,7 +42,6 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/bio/", text: "Bio"}
  - {permalink: "/publication/", text: "Publications"}
  - {permalink: "/projects/", text: "Community Projects"}
  - {permalink: "/blog/", text: "Blog"}
