@@ -42,7 +42,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/publication/", text: "Publications"}
+ - {permalink: "/publications/", text: "Publications"}
  - {permalink: "/projects/", text: "Community Projects"}
  - {link: "https://malvikasharan.github.io/surrounded-by-giants", text: "Blog"}
  - {link: "mailto:malvikasharan@gmail.com", text: "Contact"}
@@ -65,9 +65,9 @@ heroButtons:
 # About Block
 aboutTitle: "Overview"
 aboutBlock:
- - {title: "Short Bio", image: "who.jpg", text: "" }
- - {title: "Topics of interest", image: "what.jpg", text: "" }
- - {title: "Current Projects", image: "why.jpg", text: "" }
+ - {title: "Short Bio", image: "who.jpg", text: "", permalink: "/bio/"}
+ - {title: "Current Projects", image: "why.jpg", text: "",  "/projects/"}
+ - {title: "Topics of interest", image: "what.jpg", text: "",  "/blog/"}
 
 # #Statistic Block
 # statisticBlockImage: "statistic.jpg"
