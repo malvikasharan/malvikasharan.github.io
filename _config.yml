@@ -116,8 +116,8 @@ footerBlocks:
  -
   title: "Other Involvements"
   links:
-    - {link: "https://www.embl.de/", text: "The Carpentries"}
-    - {link: "https://www.embl.de/", text: "Mozilla Open Leaders"}
+    - {link: "https://carpentries.org", text: "The Carpentries"}
+    - {link: "https://foundation.mozilla.org/en/opportunity/mozilla-open-leaders/round-7/participants/participants---cohort-f/", text: "Mozilla Open Leaders"}
 
 
 # #Team Block
