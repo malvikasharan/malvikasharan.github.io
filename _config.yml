@@ -57,7 +57,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Malvika Sharan"
-eventDate: " <typeout> "
+eventDate: "Computational Biology, Community Building, Open Science"
 typeoutTextValues: '"", "Community Builder", "Computational Biologist", "Open Scientist", "Collaborator"'
 typeoutFallback: "Community Builder"
 heroButtons:
@@ -172,10 +172,11 @@ aboutBlock:
 #   soldOutText: "Sold Out"
 
 #Footer
-socialLinks:
- - {link: "https://twitter.com/malvikasharan", icon: "twitter"}
- - {permalink: "/feed.xml", icon: "rss"}
-#footerBlocks:
+# socialLinks:
+#  - {link: "https://twitter.com/malvikasharan", icon: "twitter"}
+#  - {permalink: "/feed.xml", icon: "rss"}
+
+footerBlocks:
  -
   title: "Links"
   links:
