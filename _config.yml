@@ -65,9 +65,9 @@ heroButtons:
 # About Block
 aboutTitle: "Overview"
 aboutBlock:
- - {title: "Short Bio", image: "who.jpg", text: "", permalink: "/bio/"}
- - {title: "Current Projects", image: "why.jpg", text: "",  "/projects/"}
- - {title: "Topics of interest", image: "what.jpg", text: "",  "/blog/"}
+ - {title: "Short Bio", permalink: "/bio/", image: "who.jpg", text: ""}
+ - {title: "Current Projects", permalink: "/projects/", image: "why.jpg", text: ""}
+ - {title: "Topics of interest",  permalink: "/blog/", image: "what.jpg", text: ""}
 
 # #Statistic Block
 # statisticBlockImage: "statistic.jpg"
