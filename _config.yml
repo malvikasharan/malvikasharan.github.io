@@ -116,6 +116,7 @@ footerBlocks:
  -
   title: "Other Involvements"
   links:
+    - {link: "https://www.open-bio.org/2019/08/17/malvika-sharan-elected-to-obf-board/", text: "Open Bioinformatics Foundation"}
     - {link: "https://carpentries.org", text: "The Carpentries"}
     - {link: "https://foundation.mozilla.org/en/opportunity/mozilla-open-leaders/round-7/participants/participants---cohort-f/", text: "Mozilla Open Leaders"}
 
