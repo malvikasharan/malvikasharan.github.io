@@ -30,6 +30,7 @@ To begin using this template, choose one of the following options to get started
 ### Basic Usage
 
 After downloading, simply edit the HTML and CSS files included with `dist` directory. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
+Note from Malvika Sharan (GitHub: malvikasharan): In my repository, I have renamed the `dist` folder to `docs` and selected it as the folder to use for Git Pages in the setting section of the repository.
 
 ### Advanced Usage
 
