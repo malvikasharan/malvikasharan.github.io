@@ -4,7 +4,7 @@
 
 ## Preview
 
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-resume/)**
+**[View Live Preview](https://startbootstrap.github.io/startbootstrap-resume/), [GitHub Repository](https://github.com/StartBootstrap/startbootstrap-resume)**
 
 ## Status
 
